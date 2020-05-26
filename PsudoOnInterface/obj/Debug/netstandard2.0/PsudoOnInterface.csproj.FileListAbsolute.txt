@@ -1,0 +1,9 @@
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\bin\Debug\netstandard2.0\PsudoOnInterface.deps.json
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\bin\Debug\netstandard2.0\PsudoOnInterface.dll
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\bin\Debug\netstandard2.0\PsudoOnInterface.pdb
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\obj\Debug\netstandard2.0\PsudoOnInterface.csprojAssemblyReference.cache
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\obj\Debug\netstandard2.0\PsudoOnInterface.csproj.CoreCompileInputs.cache
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\obj\Debug\netstandard2.0\PsudoOnInterface.AssemblyInfoInputs.cache
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\obj\Debug\netstandard2.0\PsudoOnInterface.AssemblyInfo.cs
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\obj\Debug\netstandard2.0\PsudoOnInterface.dll
+D:\PlayOnDotNet\PsudoOnInterface\PsudoOnInterface\obj\Debug\netstandard2.0\PsudoOnInterface.pdb

@@ -1,0 +1,13 @@
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\bin\Debug\netcoreapp3.1\ConsoleApp for threading.exe
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\bin\Debug\netcoreapp3.1\ConsoleApp for threading.deps.json
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\bin\Debug\netcoreapp3.1\ConsoleApp for threading.runtimeconfig.json
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\bin\Debug\netcoreapp3.1\ConsoleApp for threading.runtimeconfig.dev.json
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\bin\Debug\netcoreapp3.1\ConsoleApp for threading.dll
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\bin\Debug\netcoreapp3.1\ConsoleApp for threading.pdb
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\obj\Debug\netcoreapp3.1\ConsoleApp for threading.csprojAssemblyReference.cache
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\obj\Debug\netcoreapp3.1\ConsoleApp for threading.csproj.CoreCompileInputs.cache
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\obj\Debug\netcoreapp3.1\ConsoleApp for threading.AssemblyInfoInputs.cache
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\obj\Debug\netcoreapp3.1\ConsoleApp for threading.AssemblyInfo.cs
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\obj\Debug\netcoreapp3.1\ConsoleApp for threading.dll
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\obj\Debug\netcoreapp3.1\ConsoleApp for threading.pdb
+D:\PlayOnDotNet\PsudoOnInterface\ConsoleApp for threading\obj\Debug\netcoreapp3.1\ConsoleApp for threading.genruntimeconfig.cache
